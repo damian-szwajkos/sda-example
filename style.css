@@ -1,0 +1,21 @@
+.container {
+    background-color: red;
+    padding: 10px;
+}
+
+.active {
+    background-color: #62ac2b;
+}
+
+.btn {
+    padding: 10px 16px;
+    border: 1px solid black;
+    background: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #62ac2b;
+    color: white;
+}
